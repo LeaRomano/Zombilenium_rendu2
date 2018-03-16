@@ -82,5 +82,72 @@ namespace Zombilenium_rendu2
 
 
         }
+        static int ComparerZombie(Monstre m1, Monstre m2) //en fonction de leur cagnotte
+        {
+            if (m1 is Zombie && m2 is Zombie)
+            {
+                return (m1 as Zombie).Cagnotte.CompareTo((m2 as Zombie).Cagnotte);
+            }
+            else return +1;
+
+        }
+
+        static int ComparerDemon(Monstre m1, Monstre m2) //en fonction de force
+        {
+            if (m1 is Demon && m2 is Demon)
+            {
+                return (m1 as Demon).Force.CompareTo((m2 as Demon).Force);
+            }
+            else return +1;
+
+        }
+
+        static int ComparerVampire(Monstre m1, Monstre m2) //en fonction indice luminosité
+        {
+            if (m1 is Vampire && m2 is Vampire)
+            {
+                return (m1 as Vampire).IndiceLuminosite.CompareTo((m2 as Vampire).IndiceLuminosite);
+            }
+            else return +1;
+
+        }
+
+        static int ComparerFantome(Monstre m1, Monstre m2) //en fonction de cagnotte
+        {
+            if (m1 is Fantome && m2 is Fantome)
+            {
+                return (m1 as Fantome).Cagnotte.CompareTo((m2 as Fantome).Cagnotte);
+            }
+            else return +1;
+
+        }
+
+        static int ComparerLoupGarou(Monstre m1, Monstre m2) //en fonction de indice cruauté
+        {
+            if (m1 is LoupGarou && m2 is LoupGarou)
+            {
+                return (m1 as LoupGarou).IndiceCruaute.CompareTo((m2 as LoupGarou).IndiceCruaute);
+            }
+            else return +1;
+
+        }
+
+        static int ComparerSorcier(Monstre m1, Monstre m2) //en fonction de grade
+        {
+            if (m1 is Sorcier && m2 is Sorcier)
+            {
+                return (m1 as Sorcier).Tatouage.CompareTo((m2 as Sorcier).Tatouage);
+            }
+            else return +1;
+            //coucou
+        }
+
+
+
+
+
+
+
+
     }
 }
