@@ -52,6 +52,7 @@
     <Compile Include="DarkRide.cs" />
     <Compile Include="RollerCoaster.cs" />
     <Compile Include="Administration.cs" />
+    <Compile Include="Demon.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4789E16B-46BD-416A-8497-0AF0F323DE06}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zombilenium_rendu2/Grade.cs">
+    <Files>
+      <File FileName="Zombilenium_rendu2/Program.cs" Line="135" Column="77" />
+      <File FileName="Zombilenium_rendu2/RollerCoaster.cs" Line="1" Column="1" />
+      <File FileName="Zombilenium_rendu2/Sorcier.cs" Line="8" Column="18" />
+      <File FileName="Zombilenium_rendu2/Vampire.cs" Line="6" Column="25" />
+      <File FileName="Zombilenium_rendu2/Demon.cs" Line="12" Column="30" />
+      <File FileName="Zombilenium_rendu2/Spectacles.cs" Line="1" Column="1" />
+      <File FileName="Zombilenium_rendu2/TypeBoutique.cs" Line="1" Column="1" />
+      <File FileName="Zombilenium_rendu2/TypeCategorie.cs" Line="1" Column="1" />
+      <File FileName="Zombilenium_rendu2/TypeSexe.cs" Line="1" Column="1" />
+      <File FileName="Zombilenium_rendu2/Zombie.cs" Line="1" Column="1" />
+      <File FileName="Zombilenium_rendu2/Monstre.cs" Line="20" Column="36" />
+      <File FileName="Zombilenium_rendu2/Fantome.cs" Line="1" Column="1" />
+      <File FileName="Zombilenium_rendu2/LoupGarou.cs" Line="6" Column="23" />
+      <File FileName="Zombilenium_rendu2/Grade.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Zombilenium__rendu2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
