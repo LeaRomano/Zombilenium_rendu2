@@ -1,0 +1,5 @@
+/Users/Guillaume/Projects/Zombilenium_rendu2/Zombilenium_rendu2/bin/Debug/Zombilenium_rendu2.exe
+/Users/Guillaume/Projects/Zombilenium_rendu2/Zombilenium_rendu2/bin/Debug/Zombilenium_rendu2.pdb
+/Users/Guillaume/Projects/Zombilenium_rendu2/Zombilenium_rendu2/obj/x86/Debug/Zombilenium_rendu2.csproj.CoreCompileInputs.cache
+/Users/Guillaume/Projects/Zombilenium_rendu2/Zombilenium_rendu2/obj/x86/Debug/Zombilenium_rendu2.exe
+/Users/Guillaume/Projects/Zombilenium_rendu2/Zombilenium_rendu2/obj/x86/Debug/Zombilenium_rendu2.pdb
